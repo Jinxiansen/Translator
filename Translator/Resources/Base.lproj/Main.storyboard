@@ -675,7 +675,7 @@
             <objects>
                 <viewController id="5gI-5U-AMq" customClass="HomeController" customModule="Translator" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" id="ERx-hH-rdd">
-                        <rect key="frame" x="0.0" y="0.0" width="480" height="329"/>
+                        <rect key="frame" x="0.0" y="0.0" width="480" height="339"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <subviews>
                             <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="PMu-2o-xXX">
@@ -726,10 +726,10 @@
                                 </connections>
                             </button>
                             <imageView horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="pmD-TE-Xxc">
-                                <rect key="frame" x="215" y="249" width="50" height="50"/>
+                                <rect key="frame" x="205" y="239" width="70" height="70"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="pmD-TE-Xxc" secondAttribute="height" multiplier="1:1" id="gBh-Hd-enU"/>
-                                    <constraint firstAttribute="width" constant="50" id="lS5-2B-rd0"/>
+                                    <constraint firstAttribute="width" constant="70" id="lS5-2B-rd0"/>
                                 </constraints>
                                 <imageCell key="cell" refusesFirstResponder="YES" alignment="left" animates="YES" imageScaling="proportionallyDown" image="logo2" id="xEX-CX-LDE"/>
                             </imageView>
@@ -771,7 +771,7 @@
                             <constraint firstItem="h8H-Ie-4ZI" firstAttribute="centerY" secondItem="cmg-3Y-CBq" secondAttribute="centerY" id="aYl-Ja-Umb"/>
                             <constraint firstItem="h8H-Ie-4ZI" firstAttribute="leading" secondItem="cmg-3Y-CBq" secondAttribute="trailing" constant="10" id="ach-vH-XE2"/>
                             <constraint firstItem="gSR-YI-48S" firstAttribute="top" secondItem="PMu-2o-xXX" secondAttribute="bottom" constant="10" id="cdL-dp-38H"/>
-                            <constraint firstItem="TyV-c9-G0C" firstAttribute="top" secondItem="pmD-TE-Xxc" secondAttribute="bottom" constant="30" id="g4G-tQ-Xd7"/>
+                            <constraint firstItem="TyV-c9-G0C" firstAttribute="top" secondItem="pmD-TE-Xxc" secondAttribute="bottom" constant="20" id="g4G-tQ-Xd7"/>
                             <constraint firstAttribute="trailing" secondItem="K5Y-4z-p5Z" secondAttribute="trailing" constant="20" id="gKp-mU-PvP"/>
                             <constraint firstItem="cmg-3Y-CBq" firstAttribute="top" secondItem="TyV-c9-G0C" secondAttribute="bottom" constant="20" id="izN-G1-Po1"/>
                             <constraint firstAttribute="trailing" secondItem="h8H-Ie-4ZI" secondAttribute="trailing" constant="15" id="lCk-B8-c1C"/>

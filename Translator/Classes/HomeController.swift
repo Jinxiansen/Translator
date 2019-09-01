@@ -213,7 +213,6 @@ extension HomeController {
                     debugPrint("打开失败：\(savePath.absoluteString)")
                 }
             }
-
         } catch {
             debugPrint(error)
             showAlert(title: error.localizedDescription)
