@@ -25,7 +25,7 @@
 
 - 主界面
 
-<img width="70%" src="Designs/images/app.png"/>
+<img width="60%" src="Designs/images/app.png"/>
 
 - 预览 csv 格式
 
@@ -33,7 +33,7 @@
 
 > 这里的 `Key` 的前半部分作为解析时创建的 `.lproj` 文件夹名称，请确保为对应语言的缩写，例如 **en(英文)** 
 
-<img width="80%" src="Designs/images/csv.png"/>
+<img width="70%" src="Designs/images/csv.png"/>
 
 - 解析结果，根据添加多少种语言，生成对应的 `.lproj` 文件夹。
 
@@ -54,7 +54,16 @@ extension String {
 ```
 
 
-## ✉️ 反馈
+## ❓ 常见问题
+- 打不开“Translator”，因为它来自身份不明的开发者。
+<img width="80%" src="Designs/qes/q1.png"/>
+
+> 若遇到这个问题，打开终端，输入： **sudo spctl --master-disable** 
+
+- ...
+
+
+## 🖌 反馈
 
 * 如果以上功能并不能满足你的需求，可以下载源码进行修改并 Export app；
 * 如果你有更好的建议，可在本项目下提一个 [Issue](https://github.com/Jinxiansen/Translator/issues/new) ，我会尝试根据你的需要新增功能；
