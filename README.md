@@ -15,8 +15,19 @@
 
 ## ⚒ 安装
 
-Translator Release：[前往下载并安装](https://github.com/Jinxiansen/Translator/releases)
+从 [Release Page](https://github.com/Jinxiansen/Translator/releases) 下载最新版本，或使用 [Homebrew](https://brew.sh) 安装:
 
+```
+brew cask install translator
+```
+<img width="60%" src="Designs/images/install.png"/>
+
+
+卸载：
+
+```
+brew cask uninstall translator
+```
 
 ## 🔑 使用
 
