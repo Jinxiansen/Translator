@@ -1,0 +1,25 @@
+
+"Localized Helper" = "Localized Helper";
+"Failed to open file" = "Failed to open file";
+"Failed to read file" = "Failed to read file";
+"Set storage directory" = "Set storage directory";
+"Please set the storage directory first" = "Please set the storage directory first";
+"Choose to fail" = "Choose to fail";
+"Please select the .csv file first" = "Please select the .csv file first";
+"Select the .csv file" = "Select the .csv file";
+"Select storage directory" = "Select storage directory";
+"Stored in this directory" = "Stored in this directory";
+"Choose" = "Choose";
+"lproj folder creation failed" = ".lproj folder creation failed";
+"completed" = "completed";
+"Parsing failed, please check the .csv file format" = "Parsing failed, please check the .csv file format";
+"Cancel" = "Cancel";
+"Created successfully" = "Created successfully";
+"Creation failed" = "Creation failed";
+"File Path" = "File Path";
+"Write failed" = "Write failed";
+"Done" = "Done";
+"App Desc" = "\tThe localization assistant can help you quickly convert the contents of the `.csv` table into the corresponding .lproj file in the iOS project. The following steps are used: \n• First set the storage path; \n• Then select the .csv file, file The format needs to be consistent with the format generated in the lower right corner; \n• Finally click to start parsing.";
+"Preview .csv format" = "Preview .csv format";
+"Start parsing" = "Start parsing";
+"Open" = "Open";

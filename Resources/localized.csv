@@ -1,0 +1,25 @@
+Key,zh-Hant（中文）,en(英文)
+Translator,Translator,Translator
+Failed to open file,文件打开失败,Failed to open file
+Failed to read file,文件读取失败,Failed to read file
+Set storage directory,设置存储目录,Set storage directory
+Please set the storage directory first,请先设置存储目录,Please set the storage directory first
+Choose to fail,选择失败,Choose to fail
+Please select the .csv file first,请先选择.csv文件,Please select the .csv file first
+Select the .csv file,选择.csv文件,Select the .csv file
+Select storage directory,选择存储目录,Select storage directory
+Stored in this directory,存储在此目录,Stored in this directory
+Choose,选择,Choose
+lproj folder creation failed,.lproj 文件夹创建失败,.lproj folder creation failed
+completed,已完成,completed
+"Parsing failed, please check the .csv file format",解析失败，请检查 .csv 文件格式,"Parsing failed, please check the .csv file format"
+Cancel,取消,Cancel
+Created successfully,创建成功,Created successfully
+Creation failed,创建失败,Creation failed
+File Path,文件路径,File Path
+Write failed,写入失败,Write failed
+Done,确定,Done
+App Desc,\tTranslator 可以帮助你快速的将 `.csv` 表格内容转为 iOS项目中对应国家的. lproj文件，以下为使用步骤：\n• 首先设置存储目录；\n• 然后选择 .csv 文件，文件格式需要按照右下角生成的格式一致；\n• 最后点击 开始解析 即可。,"\tTranslator can help you quickly convert the contents of the `.csv` table into the corresponding .lproj file in the iOS project. The following steps are used: \n• First set the storage path; \n• Then select the .csv file, file The format needs to be consistent with the format generated in the lower right corner; \n• Finally click to start parsing."
+Preview .csv format,预览.csv格式,Preview .csv format
+Start parsing,开始解析,Start parsing
+Open,打开,Open

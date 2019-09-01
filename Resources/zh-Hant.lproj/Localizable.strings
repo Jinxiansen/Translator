@@ -1,0 +1,25 @@
+
+"Localized Helper" = "本地化助手";
+"Failed to open file" = "文件打开失败";
+"Failed to read file" = "文件读取失败";
+"Set storage directory" = "设置存储目录";
+"Please set the storage directory first" = "请先设置存储目录";
+"Choose to fail" = "选择失败";
+"Please select the .csv file first" = "请先选择.csv文件";
+"Select the .csv file" = "选择.csv文件";
+"Select storage directory" = "选择存储目录";
+"Stored in this directory" = "存储在此目录";
+"Choose" = "选择";
+"lproj folder creation failed" = ".lproj 文件夹创建失败";
+"completed" = "已完成";
+"Parsing failed, please check the .csv file format" = "解析失败，请检查 .csv 文件格式";
+"Cancel" = "取消";
+"Created successfully" = "创建成功";
+"Creation failed" = "创建失败";
+"File Path" = "文件路径";
+"Write failed" = "写入失败";
+"Done" = "确定";
+"App Desc" = "\t本地化助手 可以帮助你快速的将 `.csv` 表格内容转为 iOS项目中对应国家的. lproj文件，以下为使用步骤：\n• 首先设置存储目录；\n• 然后选择 .csv 文件，文件格式需要按照右下角生成的格式一致；\n• 最后点击 开始解析 即可。";
+"Preview .csv format" = "预览.csv格式";
+"Start parsing" = "开始解析";
+"Open" = "打开";
