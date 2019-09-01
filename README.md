@@ -13,6 +13,11 @@
 * 运行在 macOS 10.13 及以上版本。
 
 
+## ⚒ 安装
+
+Translator Release：[前往下载并安装](https://github.com/Jinxiansen/Translator/releases)
+
+
 ## 🔑 使用
 
 使用步骤：
