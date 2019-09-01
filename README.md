@@ -56,7 +56,7 @@ extension String {
 
 ## ❓ 常见问题
 - 打不开“Translator”，因为它来自身份不明的开发者。
-<img width="80%" src="Designs/qes/q1.png"/>
+<img width="60%" src="Designs/qes/q1.png"/>
 
 > 若遇到这个问题，打开终端，输入： **sudo spctl --master-disable** 
 
